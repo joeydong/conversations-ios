@@ -1,5 +1,16 @@
 {
   "1.0.0": "https://github.com/twilio/conversations-ios/releases/download/v1.0.0/TwilioConversationsClient.framework.zip",
   "1.1.0": "https://github.com/twilio/conversations-ios/releases/download/v1.1.0/TwilioConversationsClient.framework.zip",
-  "1.1.1": "https://github.com/twilio/conversations-ios/releases/download/v1.1.1/TwilioConversationsClient.framework.zip"
+  "1.1.1": "https://github.com/twilio/conversations-ios/releases/download/v1.1.1/TwilioConversationsClient.framework.zip",
+  "1.2.0": "https://github.com/twilio/conversations-ios/releases/download/v1.2.0/TwilioConversationsClient.framework.zip",
+  "1.3.0": "https://media.twiliocdn.com/sdk/ios/conversations/releases/1.3.0/twilio-conversations-ios-1.3.0.zip",
+  "1.3.1": "https://media.twiliocdn.com/sdk/ios/conversations/releases/1.3.1/twilio-conversations-ios-1.3.1.zip",
+  "2.0.0": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.0.0/twilio-conversations-ios-2.0.0.zip",
+  "2.0.1": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.0.1/twilio-conversations-ios-2.0.1.zip",
+  "2.0.2": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.0.2/twilio-conversations-ios-2.0.2.zip",
+  "2.0.3": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.0.3/twilio-conversations-ios-2.0.3.zip",
+  "2.1.0": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.1.0/twilio-conversations-ios-2.1.0.zip",
+  "2.2.0": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.2.0/twilio-conversations-ios-2.2.0.zip",
+  "2.2.1": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.2.1/twilio-conversations-ios-2.2.1.zip",
+  "2.2.2": "https://media.twiliocdn.com/sdk/ios/conversations/releases/2.2.2/twilio-conversations-ios-2.2.2.zip"
 }
